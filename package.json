@@ -1,0 +1,32 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "friend finder",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SLenKsP/FriendFinder.git"
+  },
+  "keywords": [
+    "This",
+    "is",
+    "friend",
+    "finder",
+    "app"
+  ],
+  "author": "Sagar Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SLenKsP/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/SLenKsP/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.1",
+    "path": "^0.12.7"
+  }
+}
