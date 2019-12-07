@@ -1,4 +1,4 @@
-let friendsList = [ {
+let friends = [ {
     "name": "Balu",
     "photo": "https://steamuserimages-a.akamaihd.net/ugc/958607574777860164/C969111FF4DD7BD4A3DC3BE3EDFD6E905C55A00C/",
     "score": [
@@ -81,4 +81,4 @@ let friendsList = [ {
 
 ];
 
-module.exports = friendsList;
+module.exports = friends;
