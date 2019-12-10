@@ -13,4 +13,4 @@
 - Bootstrap
 - W3.CSS
 
-## Check out the website: https://friendsfinders-sleksp.herokuapp.com/
+## Check out the website: https://friendsfinder-slenksp.herokuapp.com/
